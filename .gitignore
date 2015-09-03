@@ -9,6 +9,7 @@
 *.dll
 
 !/GameData/Fingerboxes/Common/*.*
+!/GameData/Fingerboxes/Common/*.dll
 
 # Build results
 [Dd]ebug/
