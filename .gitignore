@@ -8,7 +8,7 @@
 *.sln.docstates
 *.dll
 
-!GameData/Fingerboxes/Common/*
+!GameData/Fingerboxes/Common/*.*
 
 # Build results
 [Dd]ebug/
